@@ -1,7 +1,7 @@
 # rustle.ranger
 simplistic yet modern ranger configuration
 
-(ranger is a vim inspired file manager! check it out [https://github.com/ranger/ranger/](here!))
+(ranger is a vim inspired file manager! check it out [here!](https://github.com/ranger/ranger/))
 
 ## Installation
 (make sure you already have ranger on your system before you continue)
